@@ -5,4 +5,4 @@ deployment:
   prod:
     branch: master
     commands:
-      - aws s3 sync /home/ubuntu/S3ContinuousDeploy s3://4964lav7 --delete
+      - aws s3 sync /home/ubuntu/S3ContinuousDeploy s3://4964lab7 --delete
